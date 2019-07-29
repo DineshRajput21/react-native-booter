@@ -2,7 +2,7 @@
 
 ## Getting Started
 1. Ensure you've followed the [React Native - Get Started Guide](https://facebook.github.io/react-native/docs/getting-started.html)
-1. Clone this project `git clone https://github.com/dineshucreate/react-native-innovator.git`
+1. Clone this project `https://github.com/DineshRajput21/react-native-booter.git`
 1. Run `npm install` from root directory
 1. Start the app on emulator/simulator or physical devices
 
